@@ -1,0 +1,2 @@
+# more-coins
+miners
